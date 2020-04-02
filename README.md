@@ -6,3 +6,5 @@ cours <http://defeo.lu/in202>.
 Les [réglages, c'est par là](../../settings).
 
 Edition en locale test
+
+push vers serveur git test
